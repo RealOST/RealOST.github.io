@@ -25,7 +25,7 @@
 }
 
 .pio-container.hidden .pio-show:hover {
-    transform: translateX(-.5em);
+    transform: translateX(-1em);
 }
 
 .pio-container.hidden #pio,
