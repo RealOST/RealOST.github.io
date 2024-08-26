@@ -9,7 +9,7 @@ var pio = new Paul_Pio({
 	  ],
 	  custom: [
 		{
-		  selector: ".comment-form",
+		  selector: "#post-comment",
 		  text: "欢迎参与本文评论，别发小广告噢~",
 		},
 		{
