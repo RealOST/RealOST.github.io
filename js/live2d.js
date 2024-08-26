@@ -22,6 +22,6 @@ var pio = new Paul_Pio({
 	},
 	night: "single.night()",
 	model: [
-	  "realost.github.io/pio/model/416/model.json",
+	  "https://realost.github.io/pio/model/416/model.json",
 	],
 });
