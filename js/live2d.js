@@ -20,7 +20,7 @@ var pio = new Paul_Pio({
 		{ selector: ".post-content a, .page-content a", type: "link" },
 	  ],
 	},
-	night: "single.night()",
+	night: "night()",
 	model: [
 	  "https://realost.github.io/pio/model/416/model.json",
 	],
